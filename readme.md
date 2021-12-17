@@ -9,4 +9,4 @@ To launch thid prototype;
 5. enjoy.
 
 
-##a big thanks to all the people that were involved in the making of this poject.
+## a big thanks to all the people that were involved in the making of this poject.
